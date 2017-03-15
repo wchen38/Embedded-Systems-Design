@@ -1,3 +1,5 @@
 Integrate PSoC-5 microcontroller, the 16x32 RGB LED display and WiFi module to design an Internet connected two player game called Reversi(also known as Othello). This game will be able to perform on a 4x4, 8x8 and 16x16 board.
+
 finalproject/main.c: Contain the implementation of the game in C programming using different event driven API calls.
+
 doc/CE121finalprojectreport: A detailed report describes the system level design of this project.
